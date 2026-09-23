@@ -1,0 +1,526 @@
+
+
+
+
+Table of Contents
+Preface                                                                       xix
+Part I Data Structures
+1.The Python Data Model                                                      
+What’s New in This Chapter                                                                                          
+A Pythonic Card Deck                                                                                                    
+How Special Methods Are Used                                                                                    
+Emulating Numeric Types                                                                                          
+String Representation                                                                                                
+Boolean Value of a Custom Type                                                                            
+Collection API                                                                                                            
+Overview of Special Methods                                                                                       
+Why len Is Not a Method                                                                                             
+Chapter Summary                                                                                                          
+Further Reading                                                                                                             
+2.An Array of Sequences                                                      
+What’s New in This Chapter                                                                                        
+Overview of Built-In Sequences                                                                                  
+List Comprehensions and Generator Expressions                                                   
+List Comprehensions and Readability                                                                    
+Listcomps Versus map and filter                                                                             
+Cartesian Products                                                                                                     
+Generator Expressions                                                                                              
+Tuples Are Not Just Immutable Lists                                                                         
+Tuples as Records                                                                                                       
+vTuples as Immutable Lists                                                                                        
+Comparing Tuple and List Methods                                                                       
+Unpacking Sequences and Iterables                                                                            
+Using * to Grab Excess Items                                                                                   
+Unpacking with * in Function Calls and Sequence Literals                                 
+Nested Unpacking                                                                                                      
+Pattern Matching with Sequences                                                                               
+Pattern Matching Sequences in an Interpreter                                                      
+Slicing                                                                                                                              
+Why Slices and Ranges Exclude the Last Item                                                       
+Slice Objects                                                                                                                
+Multidimensional Slicing and Ellipsis                                                                     
+Assigning to Slices                                                                                                      
+Using + and * with Sequences                                                                                      
+Building Lists of Lists                                                                                                 
+Augmented Assignment with Sequences                                                               
+A += Assignment Puzzler                                                                                         
+listsort Versus the sorted Built-In                                                                              
+When a List Is Not the Answer                                                                                    
+Arrays                                                                                                                           
+Memory Views                                                                                                           
+NumPy                                                                                                                         
+Deques and Other Queues                                                                                        
+Chapter Summary                                                                                                          
+Further Reading                                                                                                             
+3.Dictionaries and Sets                                                       
+What’s New in This Chapter                                                                                        
+Modern dict Syntax                                                                                                       
+dict Comprehensions                                                                                                 
+Unpacking Mappings                                                                                                
+Merging Mappings with |                                                                                          
+Pattern Matching with Mappings                                                                               
+Standard API of Mapping Types                                                                                 
+What Is Hashable                                                                                                       
+Overview of Common Mapping Methods                                                             
+Inserting or Updating Mutable Values                                                                   
+Automatic Handling of Missing Keys                                                                        
+defaultdict: Another Take on Missing Keys                                                           
+The __missing__ Method                                                                                         
+Inconsistent Usage of __missing__ in the Standard Library                               
+Variations of dict                                                                                                           
+vi | Table of ContentscollectionsOrderedDict                                                                                            
+collectionsChainMap                                                                                                
+collectionsCounter                                                                                                    
+shelveShelf                                                                                                                  
+Subclassing UserDict Instead of dict                                                                       
+Immutable Mappings                                                                                                    
+Dictionary Views                                                                                                         
+Practical Consequences of How dict Works                                                            
+Set Theory                                                                                                                     
+Set Literals                                                                                                                 
+Set Comprehensions                                                                                                
+Practical Consequences of How Sets Work                                                             
+Set Operations                                                                                                          
+Set Operations on dict Views                                                                                     
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+4.Unicode Text Versus Bytes                                                  
+What’s New in This Chapter                                                                                      
+Character Issues                                                                                                           
+Byte Essentials                                                                                                              
+Basic Encoders/Decoders                                                                                           
+Understanding Encode/Decode Problems                                                              
+Coping with UnicodeEncodeError                                                                       
+Coping with UnicodeDecodeError                                                                       
+SyntaxError When Loading Modules with Unexpected Encoding                  
+How to Discover the Encoding of a Byte Sequence                                            
+BOM: A Useful Gremlin                                                                                         
+Handling Text Files                                                                                                     
+Beware of Encoding Defaults                                                                                 
+Normalizing Unicode for Reliable Comparisons                                                   
+Case Folding                                                                                                             
+Utility Functions for Normalized Text Matching                                               
+Extreme “Normalization”: Taking Out Diacritics                                               
+Sorting Unicode Text                                                                                                  
+Sorting with the Unicode Collation Algorithm                                                   
+The Unicode Database                                                                                                
+Finding Characters by Name                                                                                 
+Numeric Meaning of Characters                                                                           
+Dual-Mode str and bytes APIs                                                                                  
+str Versus bytes in Regular Expressions                                                               
+str Versus bytes in os Functions                                                                            
+Table of Contents | viiChapter Summary                                                                                                       
+Further Reading                                                                                                           
+5.Data Class Builders                                                        
+What’s New in This Chapter                                                                                      
+Overview of Data Class Builders                                                                               
+Main Features                                                                                                           
+Classic Named Tuples                                                                                                 
+Typed Named Tuples                                                                                                  
+Type Hints                                                                                                              
+No Runtime Effect                                                                                                   
+Variable Annotation Syntax                                                                                   
+The Meaning of Variable Annotations                                                                 
+More About @dataclass                                                                                              
+Field Options                                                                                                            
+Post-init Processing                                                                                                 
+Typed Class Attributes                                                                                            
+Initialization Variables That Are Not Fields                                                        
+@dataclass Example: Dublin Core Resource Record                                          
+Data Class as a Code Smell                                                                                         
+Data Class as Scaffolding                                                                                        
+Data Class as Intermediate Representation                                                          
+Pattern Matching Class Instances                                                                             
+Simple Class Patterns                                                                                              
+Keyword Class Patterns                                                                                          
+Positional Class Patterns                                                                                         
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+6.Object References, Mutability, and Recycling                                  
+What’s New in This Chapter                                                                                      
+Variables Are Not Boxes                                                                                             
+Identity, Equality, and Aliases                                                                                   
+Choosing Between == and is                                                                                  
+The Relative Immutability of Tuples                                                                    
+Copies Are Shallow by Default                                                                                  
+Deep and Shallow Copies of Arbitrary Objects                                                   
+Function Parameters as References                                                                          
+Mutable Types as Parameter Defaults: Bad Idea                                                 
+Defensive Programming with Mutable Parameters                                            
+del and Garbage Collection                                                                                        
+Tricks Python Plays with Immutables                                                                      
+viii | Table of ContentsChapter Summary                                                                                                       
+Further Reading                                                                                                           
+Part II Functions as Objects
+7.Functions as First-Class Objects                                              
+What’s New in This Chapter                                                                                      
+Treating a Function Like an Object                                                                          
+Higher-Order Functions                                                                                            
+Modern Replacements for map, filter, and reduce                                             
+Anonymous Functions                                                                                               
+The Nine Flavors of Callable Objects                                                                       
+User-Defined Callable Types                                                                                     
+From Positional to Keyword-Only Parameters                                                      
+Positional-Only Parameters                                                                                   
+Packages for Functional Programming                                                                    
+The operator Module                                                                                              
+Freezing Arguments with functoolspartial                                                         
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+8.Type Hints in Functions                                                    
+What’s New in This Chapter                                                                                      
+About Gradual Typing                                                                                                
+Gradual Typing in Practice                                                                                        
+Starting with Mypy                                                                                                  
+Making Mypy More Strict                                                                                      
+A Default Parameter Value                                                                                     
+Using None as a Default                                                                                         
+Types Are Defined by Supported Operations                                                         
+Types Usable in Annotations                                                                                     
+The Any Type                                                                                                           
+Simple Types and Classes                                                                                       
+Optional and Union Types                                                                                     
+Generic Collections                                                                                                 
+Tuple Types                                                                                                               
+Generic Mappings                                                                                                    
+Abstract Base Classes                                                                                               
+Iterable                                                                                                                       
+Parameterized Generics and TypeVar                                                                  
+Static Protocols                                                                                                         
+Table of Contents | ixCallable                                                                                                                      
+NoReturn                                                                                                                   
+Annotating Positional Only and Variadic Parameters                                          
+Imperfect Typing and Strong Testing                                                                      
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+9.Decorators and Closures                                                    
+What’s New in This Chapter                                                                                      
+Decorators                                                                                                              
+When Python Executes Decorators                                                                          
+Registration Decorators                                                                                              
+Variable Scope Rules                                                                                                   
+Closures                                                                                                                         
+The nonlocal Declaration                                                                                           
+Variable Lookup Logic                                                                                            
+Implementing a Simple Decorator                                                                            
+How It Works                                                                                                           
+Decorators in the Standard Library                                                                          
+Memoization with functoolscache                                                                       
+Using lru_cache                                                                                                        
+Single Dispatch Generic Functions                                                                       
+Parameterized Decorators                                                                                          
+A Parameterized Registration Decorator                                                             
+The Parameterized Clock Decorator                                                                     
+A Class-Based Clock Decorator                                                                             
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+0. Design Patterns with First-Class Functions                                    
+What’s New in This Chapter                                                                                      
+Case Study: Refactoring Strategy                                                                               
+Classic Strategy                                                                                                         
+Function-Oriented Strategy                                                                                   
+Choosing the Best Strategy: Simple Approach                                                    
+Finding Strategies in a Module                                                                              
+Decorator-Enhanced Strategy Pattern                                                                     
+The Command Pattern                                                                                               
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+x | Table of ContentsPart III Classes and Protocols
+1. A Pythonic Object                                                         
+What’s New in This Chapter                                                                                      
+Object Representations                                                                                               
+Vector Class Redux                                                                                                     
+An Alternative Constructor                                                                                       
+classmethod Versus staticmethod                                                                             
+Formatted Displays                                                                                                     
+A Hashable Vectord                                                                                                  
+Supporting Positional Pattern Matching                                                                 
+Complete Listing of Vectord, Version                                                                 
+Private and “Protected” Attributes in Python                                                         
+Saving Memory with __slots__                                                                                 
+Simple Measure of __slot__ Savings                                                                     
+Summarizing the Issues with __slots__                                                                
+Overriding Class Attributes                                                                                       
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+2. Special Methods for Sequences                                              
+What’s New in This Chapter                                                                                      
+Vector: A User-Defined Sequence Type                                                                  
+Vector Take #: Vectord Compatible                                                                     
+Protocols and Duck Typing                                                                                       
+Vector Take #: A Sliceable Sequence                                                                      
+How Slicing Works                                                                                                  
+A Slice-Aware __getitem__                                                                                    
+Vector Take #: Dynamic Attribute Access                                                             
+Vector Take #: Hashing and a Faster ==                                                                
+Vector Take #: Formatting                                                                                       
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+3. Interfaces, Protocols, and ABCs                                              
+The Typing Map                                                                                                          
+What’s New in This Chapter                                                                                      
+Two Kinds of Protocols                                                                                              
+Programming Ducks                                                                                                   
+Python Digs Sequences                                                                                           
+Monkey Patching: Implementing a Protocol at Runtime                                  
+Defensive Programming and “Fail Fast”                                                              
+Table of Contents | xiGoose Typing                                                                                                               
+Subclassing an ABC                                                                                                 
+ABCs in the Standard Library                                                                                
+Defining and Using an ABC                                                                                   
+ABC Syntax Details                                                                                                  
+Subclassing an ABC                                                                                                 
+A Virtual Subclass of an ABC                                                                                
+Usage of register in Practice                                                                                   
+Structural Typing with ABCs                                                                                 
+Static Protocols                                                                                                            
+The Typed double Function                                                                                   
+Runtime Checkable Static Protocols                                                                     
+Limitations of Runtime Protocol Checks                                                             
+Supporting a Static Protocol                                                                                   
+Designing a Static Protocol                                                                                     
+Best Practices for Protocol Design                                                                        
+Extending a Protocol                                                                                               
+The numbers ABCs and Numeric Protocols                                                       
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+4. Inheritance: For Better or for Worse                                          
+What’s New in This Chapter                                                                                      
+The super() Function                                                                                                  
+Subclassing Built-In Types Is Tricky                                                                        
+Multiple Inheritance and Method Resolution Order                                             
+Mixin Classes                                                                                                                
+Case-Insensitive Mappings                                                                                     
+Multiple Inheritance in the Real World                                                                   
+ABCs Are Mixins Too                                                                                             
+ThreadingMixIn and ForkingMixIn                                                                     
+Django Generic Views Mixins                                                                               
+Multiple Inheritance in Tkinter                                                                             
+Coping with Inheritance                                                                                             
+Favor Object Composition over Class Inheritance                                             
+Understand Why Inheritance Is Used in Each Case                                           
+Make Interfaces Explicit with ABCs                                                                     
+Use Explicit Mixins for Code Reuse                                                                      
+Provide Aggregate Classes to Users                                                                      
+Subclass Only Classes Designed for Subclassing                                                 
+Avoid Subclassing from Concrete Classes                                                           
+Tkinter: The Good, the Bad, and the Ugly                                                           
+xii | Table of ContentsChapter Summary                                                                                                       
+Further Reading                                                                                                           
+5. More About Type Hints                                                     
+What’s New in This Chapter                                                                                      
+Overloaded Signatures                                                                                                
+Max Overload                                                                                                           
+Takeaways from Overloading max                                                                        
+TypedDict                                                                                                                     
+Type Casting                                                                                                                 
+Reading Type Hints at Runtime                                                                                
+Problems with Annotations at Runtime                                                               
+Dealing with the Problem                                                                                       
+Implementing a Generic Class                                                                                   
+Basic Jargon for Generic Types                                                                              
+Variance                                                                                                                        
+An Invariant Dispenser                                                                                           
+A Covariant Dispenser                                                                                            
+A Contravariant Trash Can                                                                                    
+Variance Review                                                                                                       
+Implementing a Generic Static Protocol                                                                  
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+6. Operator Overloading                                                      
+What’s New in This Chapter                                                                                      
+Operator Overloading                                                                                          
+Unary Operators                                                                                                          
+Overloading + for Vector Addition                                                                          
+Overloading * for Scalar Multiplication                                                                   
+Using @ as an Infix Operator                                                                                     
+Wrapping-Up Arithmetic Operators                                                                        
+Rich Comparison Operators                                                                                      
+Augmented Assignment Operators                                                                          
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+Part IV Control Flow
+7. Iterators, Generators, and Classic Coroutines                                  
+What’s New in This Chapter                                                                                      
+Table of Contents | xiiiA Sequence of Words                                                                                                  
+Why Sequences Are Iterable: The iter Function                                                     
+Using iter with a Callable                                                                                        
+Iterables Versus Iterators                                                                                            
+Sentence Classes with __iter__                                                                                  
+Sentence Take #: A Classic Iterator                                                                     
+Don’t Make the Iterable an Iterator for Itself                                                      
+Sentence Take #: A Generator Function                                                            
+How a Generator Works                                                                                         
+Lazy Sentences                                                                                                              
+Sentence Take #: Lazy Generator                                                                        
+Sentence Take #: Lazy Generator Expression                                                    
+When to Use Generator Expressions                                                                        
+An Arithmetic Progression Generator                                                                     
+Arithmetic Progression with itertools                                                                  
+Generator Functions in the Standard Library                                                         
+Iterable Reducing Functions                                                                                      
+Subgenerators with yield from                                                                                   
+Reinventing chain                                                                                                    
+Traversing a Tree                                                                                                     
+Generic Iterable Types                                                                                                
+Classic Coroutines                                                                                                       
+Example: Coroutine to Compute a Running Average                                        
+Returning a Value from a Coroutine                                                                    
+Generic Type Hints for Classic Coroutines                                                         
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+8. with, match, and else Blocks                                                
+What’s New in This Chapter                                                                                      
+Context Managers and with Blocks                                                                          
+The contextlib Utilities                                                                                            
+Using @contextmanager                                                                                         
+Pattern Matching in lispy: A Case Study                                                                 
+Scheme Syntax                                                                                                          
+Imports and Types                                                                                                   
+The Parser                                                                                                                 
+The Environment                                                                                                     
+The REPL                                                                                                                  
+The Evaluator                                                                                                           
+Procedure: A Class Implementing a Closure                                                       
+Using OR-patterns                                                                                                   
+xiv | Table of ContentsDo This, Then That: else Blocks Beyond if                                                              
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+9. Concurrency Models in Python                                              
+What’s New in This Chapter                                                                                      
+The Big Picture                                                                                                             
+A Bit of Jargon                                                                                                              
+Processes, Threads, and Python’s Infamous GIL                                                
+A Concurrent Hello World                                                                                        
+Spinner with Threads                                                                                              
+Spinner with Processes                                                                                            
+Spinner with Coroutines                                                                                         
+Supervisors Side-by-Side                                                                                         
+The Real Impact of the GIL                                                                                        
+Quick Quiz                                                                                                                
+A Homegrown Process Pool                                                                                      
+Process-Based Solution                                                                                           
+Understanding the Elapsed Times                                                                        
+Code for the Multicore Prime Checker                                                                
+Experimenting with More or Fewer Processes                                                    
+Thread-Based Nonsolution                                                                                    
+Python in the Multicore World                                                                                 
+System Administration                                                                                           
+Data Science                                                                                                              
+Server-Side Web/Mobile Development                                                                
+WSGI Application Servers                                                                                      
+Distributed Task Queues                                                                                        
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+Concurrency with Threads and Processes                                                           
+The GIL                                                                                                                     
+Concurrency Beyond the Standard Library                                                         
+Concurrency and Scalability Beyond Python                                                      
+0. Concurrent Executors                                                      
+What’s New in This Chapter                                                                                      
+Concurrent Web Downloads                                                                                     
+A Sequential Download Script                                                                               
+Downloading with concurrentfutures                                                                 
+Where Are the Futures?                                                                                          
+Launching Processes with concurrentfutures                                                        
+Table of Contents | xvMulticore Prime Checker Redux                                                                           
+Experimenting with Executormap                                                                           
+Downloads with Progress Display and Error Handling                                        
+Error Handling in the flags Examples                                                                 
+Using futuresas_completed                                                                                   
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+1. Asynchronous Programming                                                
+What’s New in This Chapter                                                                                      
+A Few Definitions                                                                                                        
+An asyncio Example: Probing Domains                                                                  
+Guido’s Trick to Read Asynchronous Code                                                        
+New Concept: Awaitable                                                                                            
+Downloading with asyncio and HTTPX                                                                  
+The Secret of Native Coroutines: Humble Generators                                       
+The All-or-Nothing Problem                                                                                 
+Asynchronous Context Managers                                                                             
+Enhancing the asyncio Downloader                                                                         
+Using asyncioas_completed and a Thread                                                          
+Throttling Requests with a Semaphore                                                                 
+Making Multiple Requests for Each Download                                                   
+Delegating Tasks to Executors                                                                                   
+Writing asyncio Servers                                                                                              
+A FastAPI Web Service                                                                                           
+An asyncio TCP Server                                                                                           
+Asynchronous Iteration and Asynchronous Iterables                                           
+Asynchronous Generator Functions                                                                     
+Async Comprehensions and Async Generator Expressions                             
+async Beyond asyncio: Curio                                                                                     
+Type Hinting Asynchronous Objects                                                                       
+How Async Works and How It Doesn’t                                                                   
+Running Circles Around Blocking Calls                                                              
+The Myth of I/O-Bound Systems                                                                          
+Avoiding CPU-Bound Traps                                                                                  
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+xvi | Table of ContentsPart V Metaprogramming
+2. Dynamic Attributes and Properties                                          
+What’s New in This Chapter                                                                                      
+Data Wrangling with Dynamic Attributes                                                              
+Exploring JSON-Like Data with Dynamic Attributes                                        
+The Invalid Attribute Name Problem                                                                   
+Flexible Object Creation with __new__                                                               
+Computed Properties                                                                                                  
+Step : Data-Driven Attribute Creation                                                               
+Step : Property to Retrieve a Linked Record                                                      
+Step : Property Overriding an Existing Attribute                                             
+Step : Bespoke Property Cache                                                                            
+Step : Caching Properties with functools                                                           
+Using a Property for Attribute Validation                                                               
+LineItem Take #: Class for an Item in an Order                                                
+LineItem Take #: A Validating Property                                                            
+A Proper Look at Properties                                                                                      
+Properties Override Instance Attributes                                                              
+Property Documentation                                                                                        
+Coding a Property Factory                                                                                         
+Handling Attribute Deletion                                                                                      
+Essential Attributes and Functions for Attribute Handling                                  
+Special Attributes that Affect Attribute Handling                                              
+Built-In Functions for Attribute Handling                                                          
+Special Methods for Attribute Handling                                                              
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+3. Attribute Descriptors                                                      
+What’s New in This Chapter                                                                                      
+Descriptor Example: Attribute Validation                                                               
+LineItem Take #: A Simple Descriptor                                                               
+LineItem Take #: Automatic Naming of Storage Attributes                           
+LineItem Take #: A New Descriptor Type                                                         
+Overriding Versus Nonoverriding Descriptors                                                      
+Overriding Descriptors                                                                                           
+Overriding Descriptor Without __get__                                                              
+Nonoverriding Descriptor                                                                                      
+Overwriting a Descriptor in the Class                                                                   
+Methods Are Descriptors                                                                                           
+Descriptor Usage Tips                                                                                                 
+Table of Contents | xviiDescriptor Docstring and Overriding Deletion                                                      
+Chapter Summary                                                                                                       
+Further Reading                                                                                                           
+4. Class Metaprogramming                                                   
+What’s New in This Chapter                                                                                      
+Classes as Objects                                                                                                        
+type: The Built-In Class Factory                                                                                
+A Class Factory Function                                                                                           
+Introducing __init_subclass__                                                                                  
+Why __init_subclass__ Cannot Configure __slots__                                        
+Enhancing Classes with a Class Decorator                                                              
+What Happens When: Import Time Versus Runtime                                           
+Evaluation Time Experiments                                                                                
+Metaclasses                                                                                                             
+How a Metaclass Customizes a Class                                                                    
+A Nice Metaclass Example                                                                                      
+Metaclass Evaluation Time Experiment                                                               
+A Metaclass Solution for Checked                                                                            
+Metaclasses in the Real World                                                                                   
+Modern Features Simplify or Replace Metaclasses                                             
+Metaclasses Are Stable Language Features                                                           
+A Class Can Only Have One Metaclass                                                                
+Metaclasses Should Be Implementation Details                                                  
+A Metaclass Hack with __prepare__                                                                        
+Wrapping Up                                                                                

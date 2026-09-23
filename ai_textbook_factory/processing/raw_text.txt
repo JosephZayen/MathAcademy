@@ -1,0 +1,651 @@
+
+=== 第 7 页 ===
+1.5:#4 奶 征 描 述 御 .ucucusunmunarusaanzurtznaexutanemmrmrrtrmimmictnmynritetatt 30
+
+1 工 5 妮 标 特 性 椿 述 林 租 根 的 类 垒 suussssasusswsewsssssexsxuxzeunsnnusuuesunmuneeen 32
+1.6 特 性 查 询 ...........44 32
+刑 enonutotioneiuintungitziztienatiitgriiturasitpssttoeesa 35
+
+第 2 章 选 择 符 …......... 37
+Z 根 式 的 莲 本 规 关 anaszasuzereryurrururetauryinaumusiariettunmrtemmutstuamisrareurates E
+
+2.1.1 元 素 选 择 符 … 38
+
+2.1.2 声 明 和 关 键 字 ….............0000 39
+办 办 标 沥 朝 amnursuznznasuurrurxuszutrgantmatrurrttmriraritimtigmmiAtiemuetuitaretramtamuiutmiaiuaaerunneus 42
+
+2.2.1 群 组 选 择 符 …...........0 42
+
+2.2.2 群 组 声 明 …............. 人 一
+
+2 引 二 霜 绪 韵 iaaxuurtuurriuatinxuuirititmeiuutraiiriiunrinnrnuraatmitiairuritpmiiukga 45
+
+z2 在 旦 江 益 标 市 息 用 新 示 素 …ewessewzeuwsusnuwrslewwnezesuqmdgsnnee 吴 46
+2.3 类 选 择 符 和 ID 选 择 符 … 47
+
+2.3.1 粉 逃 择 衔 ,owsxanaxrusunemanmerxutryruaantuirirtrrsyezriaurrutttemngmieug 4 7
+
+2 多 巾 根 ssessnonesososiosutosuosanuonenuscaszuezuuszesetosnearuesrcsttatotrueseuetrheeturiustyatirrutstnniiio 命 50
+
+2.3.3ID 选 择 符 …................eeeeoneeeeeeeeeetoeeeornte 51
+
+2:3# 在 类 选 择 符 和 ID 选 择 符 之 间 选 择 uwswwscswumrnsnnwusnrourremneltceugeus 52
+2.4 属 性 选 择 符 … 53
+
+2.4.1 简 单 属 性 选 择 符 …............... 53
+
+2:4:2 根 据 精 准 的 属 性 值 选 择 ,:axuJw:uwuxuxsuxxuwwwanoaaueranturgadmsg 55
+
+2.4.3 根 据 部 分 属 性 值 选 择 …............. 2
+
+2.4.4 不 区 分 大 小 写 的 标 识 符 …...........000eeeeooon 62
+25 林 捷 文 根 婆 构 选 择 ,oouwwswusucwseasnesuenrunnenuenstsxnureeewurprergn E 命 63
+
+2.5.1 理 解 笑 孔 关 祥 .nssecnonmnesesenoenuessucnesusscernsnrnusurnsennonsolenseee 不 63
+
+2.5.2 后 代 选 择 符 …...........0eeeeeet 65
+
+253 述 捧 孔 元 视 ssuznanxsaryuurxuennrectmruurrnnununrmutrnurmgthonye 68
+
+2.5.4 选 择 紧 邻 同 胞 元 泰 24444444 69
+
+2.5.5 选 择 后 续 同 胞 …...........eee 71
+6 伪 弟 选 择 标 .nuxausosnuauzeunnuunanauuucurruzerrmuuniccnururriqonn 71
+
+2.6.1 拼 接 伪 类 …nrant …72
+
+2.6.2 结 构 伪 类 …...... 73
+
+2.5.3 动 怡 俩 杜 uneuansauneunszetmuruunsrrerucemruunrnanngg 86
+
+ii | “ 目 录
+
+
+=== 第 8 页 ===
+白 90
+
+2.6.5 :target 伪 类 … 96
+2.6,Glaig 信 榴 anoosenee 97
+2.6.7 岑 定 伪 类 … 98
+2.7 伪 元 素 选 择 符 …............4..5 100
+2.7.1 装 饰 首 字 母 …............ 101
+一 102
+2.7.3 对 ::first-letter 和 ::first-line 的 限 制 …........4.4ee 103
+2.7.4 装 饰 ( 或 创 建 ) 前 置 和 后 置 内 容 元 泰 ….............5555oc。 103
+伟 1 104
+第 3 章 特 指 度 和 层 叠 …........ 105
+月 伟 , 个 | 人 , 105
+3.1.1 声 明 和 特 指 度 …..................。 107
+3.1.2 通 用 选 择 符 的 特 指 度 …..............0 109
+3.1.3 ID 和 属 性 选 择 符 的 特 指 度 ….........40.o 109
+3.1.4 行 内 样 式 的 特 指 度 …...........4 109
+351.5 釜 奥 怪 e 110
+
+E 1 仪 工 , 园 国 吴 贺 商 一 人 - 命 吴 国 余 吴 命 咤 - 荣 芸 园 干 宁 一 印 命 国 俊 一 一 余 罡 网 标 命 一 - 11 1
+3.3 层 叙 … 114
+3.3.1 按 权 重 和 来 源 排 序 …................55。 115
+3.3.2 按 特 指 度 排 序 ….........4l 117
+3.3.3 按 前 后 位 置 排 序 ….............4 117
+3.3.4 CSS 之 外 的 表 现 提 示 …........4l 119
+3.4 广 绪 … 120
+第 4 章 值 和 单 位 …........44 121
+4.1 关 键 字 、 字 符 串 和 其 他 文 本 值 ….................4.44 121
+
+吴 人 nnRywmxnniciihesrppuinn 命 s l 国 ss 127
+4.2 数 字 和 臭 分 敦 … 127
+i 坤 欣 s::.iSuJ..LLLL...u...ua.suusiplusiiiuaszJuiiiuscs..a 127
+
+
+=== 第 9 页 ===
+师 2 育 孙 e 一 一 仁 一 一 e 128
+
+7 皂 一 月 , 口 一 口 128
+4.24 弹 性 值 … 128
+4.3 引 跌 咤 … 128
+4.3.1 绝 对 长 度 单 俘 … 129
+l 伟仕 zzioooozozooooczoaozuoiuazCcas 131
+4.3.3 相 对 长 度 单 俘 … 132
+一 | 沥 138
+4.5 属 性 值 … 139
+4.6 颠 色 … 140
+4dl6.1 明 吊 颧 国 c 140
+4.6.2 RGB 和 RGBa 颜 色 … 141
+4.6.3 HSL 和 HSLa 颜 色 … 146
+4.6.4 颜 色 关 键 字 … 149
+串 149
+4.8 时 间 和 频 率 … 150
+市 伟 圆 umsgmuausimmugmscsssiauzuazizouwisnsnsssal 一 151
+4.10 自 定 义 值 … 151
+第 5 章 字 体 …....... 155
+5.1 字 体 族 … 155
+5.1.1 使 用 通 用 字 体 族 …..........444 156
+5.1.2 指 定 字 体 族 … 157
+
++ 茹 ^f吏月寻 @_:()"】1:-face ...................................................................................................................... 160
+5.2.1 必 须 的 描 述 符 … 161
+52.2; 其 以 孙 体 描 建 箱 c 丨 l 5 166
+5.2.3 组 合 探 述 符 … 169
+沥 吴 英 s 炳 ssnesseruesnuueeneeiiiunuziuzmiSoruamm s 172
+53i1 孙 量 的 工 作 声 战 el 173
+
+1 化 , 个 月 国 一 175
+5.3.3 凝 小 字 重 … 178
+5.3.4 font-weight 描 述 符 …..........4.4 179
+
+印 圭 英 国 lunnuuuateuurizuruuuuroazieuzriunzrrerriiinucucauaruerriiuu 180
+5.4.1 绝 对 太 尘 24 181
+
+| “ 目 录
+
+
+=== 第 10 页 ===
+乐 林么 技 动 木 川 xuourrruraxnnorurmanemnsiayaruinwxru 咤 kauaRugg 183
+
+5.4.3 百 分 数 和 @Mm … 184
+5.44 宝 号 的 钧 雯 snenccnnnnncennnoisizsiyorsinrnisrssynatririuiiittyearainiiel 185
+
+奶 炎 江 伟 闵 大 国 林 沥 nxupxangizngmxgmpmzmemieyugpinsEpuaikuEnoun , 188
+5.4.6 自 动 调 整 字 号 … 189
+5 河 招 znraatlainalil xaluuuau 191
+伟河 zzx:miuoeyizrarmoyzzgmgromgmagynezmmpiainmom a 沥 s 195
+5.7 字 距 调 整 … 198
+5.8 字 体 变 彤 …........... 198
+5 L 3 断 基 阜 憎 xaxxxuxunnrurrarussiruiuranrurvrnviuatipoupnmrrurrrcrigereme 200
+5.8.2 font-variant 描 述 符 …...........4 201
+
+5.9 字 体 特 性 …............0 202
+一 李 沥 洁 荣 .noszxsmemmrdryaoxrrmmanmiarmmnienrrirrmpreptmaiumaazgaiaezeuge 204
+5.11 fOnt 属 性 …....2..00eecoesseseossseseooseeosoeoooeseeoo 206
+11 刑 央 行 竹 ssiiiouituuziqiuidiiioaisatugrgudussntiuiottouinutqpssaisnapens。 207
+5.1i12 步 谅 根 用 简 与 ,uousuxuuuruzenxuuiuaryautryuirauaiernrunrnsanrriueeurreureeammrurrvricty 208
+5.11.3 使 用 系 统 字 体 …......4.....00ceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeoeeeee 209
+5.12 字 体 匹 配 机 制 ….............00 210
+平 13 川 \ 捍 sneuunusumeruanruempnzrturzuautiuuneiramrieuangrrmzriaurasuenareriuranrrurronr 212
+第 6 章 文 松 属 性 444noecioasoosniustsasl 213
+洁 沥 技 沥 闹 刹 技 ssssyesausseeyzugeuseepusuunenozniaHuRiiunmun 河 n 一 吴 伟 s 213
+6.1.1 缩 进 文 本 … 214
+
+沥 0 , , 217
+6 小 对 英 招 后 一 行 .nwennonennmuzxecnianeucnrnmruniiutmnamnrninqgdanicuuw 220
+5 城 红 对 断 arauzsusuiutsuaaisssscssssessseusiuassenuuuscinrinaudiqu a 222
+5:2.1 行 皓 囊 廖 snnnncanncccnieara nn 222
+6.22 孝 口 别 开 奉 枝nesnuurennnmeneuneurruinrrriiinmirriritirntitrniniaauarecec 226
+6.3 单 词 间 距 和 字 符 间 距 …..............0eeeee 231
+5653 小 单 间 间 跌 … 意 一niusam 231
+
+仪 仪 加 目 林刑 胡 uzesaszaazmypuzymgmyrununnanzunniurusozuuazuen 途 描 ienaze 233
+6.3.3 对 齐 方 式 对 间 距 的 影 响 … 234
+
+6 江 文 彦 辐 描 sssnsonicsioseosanuiunanrarsaliionsniioasnslloonesens 235
+5 发 奕 阮 荣 惧 znenmnugucezizrroaarimuriasarsntnamrmariatamuauztiaqa ennn 237
+
+
+=== 第 11 页 ===
+5 炳 本 渡 标 航 林 zznsiuzrourinicnnizaiautruautumieigiuinetntriunriasanitatrmarat 241
+
+医 工 北 河 | 罪 陈 nxuxouonommanruanypapreymgmixmemmnarixemageu 弥 pplwmamsieniiamenl 242
+6.8 处 理 室 自 … 244
+6.9 换 行 和 断 字 …........... 248
+8 江 口 糯 政 sssnsuncwuszamunarunamanxemruruznuniaatriiiranmtuanianiaasgazuarn 254
+6.10.1 设 定 书 写 模 式 … 254
+6.10.2 改 变 文 本 方 闭 … 258
+砂 园 引 东 阮 朋 网 rnsanrrauumumnrniyuaminununnaaatnmanrrigaautriiiarmruatmmiiiatuuuaty 259
+6.11 十 绪 … 261
+第 7 章 视 觉 格 式 化 基 础 … 262
+7.1 元 素 桃 基 础 ….........0 262
+7.1.1 重 要 概 念 概 览 …............4 263
+小 医 河 锋 烈 anatasengummeunmranmmrmeutrnanztiutrynrenaraurrietrurtanmrurmnsnrianan 264
+7.2 调 整 元 素 的 显 示 方 步 ….......40 265
+7.2.1 改 变 显 示 方 式 …...... 266
+7Z:22 挂 缘 梅 auuzszuxwrunzeuazaranumreaatreuszurriirirtuiartatrriciutertrrustnterrmiuytrmrratrarrrtt 268
+7.2.3 横 向 格 式 化 … 270
+7.2.4 横 向 格 式 化 属 性 ….............4. 27 1
+7 沥 恒 闵 ,8O:uauzussiruxmsiinucrzpriuutrtiertamriirpiiterraapmtutreriururyattmtturrupttamuuein 272
+动 1 , 挂 伟uaneoousenurarunnussascuerszuuurraseeraustyesiuuentyereuesrasuaeaasriioqlitaeeenuasqioananeioe 273
+7.2.7 负 外 边 距 …......... 275
+中 , 一 | 仁 276
+7.2.9 置 换 元 泰 …........。 277
+7.2.10 纵 向 格 式 化 …..........4 278
+叉 工 刹 i 河 芸 政 椿 挂 ,oaxoumuwszanxaznxauamunuuneeeawutweneeyenmnfiraiRinuig 279
+7.2.12 百 分 数 高 度 ….......... 280
+R2.l3 肉 动 谋 繁 高 度 usouscuenusnnunnnnuuzzuzzruiniaarautaniitiutamediannal 282
+7.2.14 折 叠 纵 向 外 边 距 … 283
+7.2.15 负 外 边 距 和 折 翼
+7.2.16 列 表 项 目
+T.3 行 用 朋 赘 zusgionsosonmesusanuameniueuuanyanerriniiounintoniieonnintondzadiniug u 尿 288
+7.3.1 行 布 局 … 288
+7.3.2 基 本 术 语 和 概 念 …...............550eeeeeeeedoeeeoent 290
+
+vi | “ 目 录
+
+
+=== 第 12 页 ===
+7.3.3 行 内 格 式 化 …............ 292
+
+7.3.4 行 内 非 置 换 元 河 … 293
+7.3.5 行 内 置 换 元 素 … 305
+7:3.6 行 肉 挠 绣 元 囊 ssn 309
+7:3.7 流 动 显 示 方 歪 … 312
+7.3.8 contents 显 示 方 式 … 313
+7.3.9 display 的 其 他 值 … 314
+7.3.10 计 算 值 … 314
+
+7 才 N 鲸 ssneonunoiensnunnnunetzosnannunuuiosrueicusnuininanninuniaziyorniiininryenniseruniiitnsinigoannoranany 315
+第 8 章 内 边 距 、 边 框 、 轮 廓 和 外 边 距 …........4.44444, 316
+8.1 基 本 元 素 棠 … 316
+8 甫 洁 挂 ss 浩 i 岑 z 319
+一 321
+8.2.2 单 边 内 边 距 1......0 323
+8.2.3 内 边 距 的 百 分 数 值 … 324
+8.2.4 行 内 元 素 的 内 边 距 .......... 326
+8.2.5 置 换 元 素 的 内 边 距 … 328
+小 加 限 ,nzssuasJun 一 …uauz 业 晏 bya.z 329
+8.3.1 边 桃 的 式 样 … 330
+8.3.2 边 栖 宽 度 … 334
+583.3 达 楼 颜 要 sss 东 a 337
+8.3.4 简 写 的 边 栖 属 性 … 340
+8.3.5 整 个 边 桃 …....... 342
+8.3.6 行 内 元 素 的 边 桃 ….........400 343
+8.3.7 圆 角 边 棠 … 344
+8.3.8 图 像 边 椒 …....4..40 352
+8.4 轮 廖 … 369
+8.4.1 轮 廖 式 样 … 369
+8.4.2 轮 廖 宽 度 … 370
+8.4.3 轮 廖 颜 色 … 371
+8.4.4 唯 一 的 轮 廓 简 写 属 性 … 373
+8.4.5 轮 廖 与 边 框 的 区 别 … 373
+
+
+=== 第 13 页 ===
+8.5.1 外 边 距 的 长 度 值 …............4 377
+8.5.2 外 边 距 的 百 分 数 值 …........... 377
+253 胡 3 夜 诊 阮 居 串 anuunzsxuzruxstmurnnenriemnapdmmuniiamiungypaxtas 378
+8.5.4 外 边 跑 抓 叙 …........ 379
+8.5.5 货 外 迪 路 … 381
+855 行 内 弃 素 的 外 迅 降 Jsuasswsxewzunearromnnnrmenraiuruiwinwatyywnienieiamume 383
+8.6 广 绪 … 385
+第 9 章 颜 色 、 背 景 和 渐 变 ….......44 386
+1 颊 医 一 … 交 … 山. 厂 ssl..iLuu 不 怀n 吊 . . 386
+引 f 阮 描 色 svauszxeartryorzusrgutatranttameyteumaetnenatrmatyusurmrmiuririininuleaneuur 386
+9.1.2 对 边 框 的 影 响 … 388
+9.1.3 对 表 单 元 河 的 影 晋 … 390
+T,4 振 技 颜 色 .nmanuasuaterutaunumartmetiaeuaiantuturutatmriietuiarmnanriiuruutieiiiyouem 391
+, , 391
+9.2.1 背 景 色 ….........4l 391
+5.2.2 就 剪 衔 禧 .:uuauxuuzauranusztuzaaazriurruarruuaestgzrrierirriiaruriiaanyitionintiiatitttm 395
+9.2.3 背 景 图 … 398
+9.2.4 背 景 定 位 …...........0 402
+22 少 政 奉 怡 俘 梁 snunrsnxuwrxennnuuneunuannumeeumuuenuinrasetmniinitinnwamiiyrt 411
+9.2.6 背 景 重 复 方 式 ( 或 不 重 复 … 415
+9.2.7 背 景 粘 附 ….............04 425
+2 剑 荣 春 国 的 | 民 寸 xucerumototsuxpreenrennrsanxirpmarmpikgrmyiallecnqlgninixermn 430
+9.2.9 写 为 一 仁 属 性 …n 438
+9.2.10 多 个 背 景 …......... 440
+取 力 洁 葛nassyJisaoxarxiormurusmararrirrrritnipagaamttitizgsgpimiuutrniasmaiajmenua 唐 x 447
+9.3.1 线 性 淀 变 … 447
+9.3.2 径 向 淅 变 … 461
+33 夺 技浩 取 图 樵unxoanximrarenmrrtxmnramnrpuerwtniemu rromaiinenu 473
+9.3.4 循 环 渐 变 ….....4. 475
+
+9 华 意 才 掠 摸 … 河 nn 479
+弯 孝 川 M 挂 .naxrieprrmruumurcrmapmeweiginmsirtnmiiemitmammimatch 咤 En 482
+
+viii | “ 目 录
+
+
+=== 第 14 页 ===
+下 册
+
+第 10 章 浮 动 及 其 形 状 …...............0 483
+[ 达 483
+10.1.1 浮 动 的 元 素 … 484
+10.1.2 押 动 详 解 …..........0 487
+03 晓 惊 行 义 amasiaauoiariniurueagruargwnrimnauguuaitstuatutruzumiiriatitttinats 494
+10.1.4 浮 动 元 素 与 内 容 重 叙 …...........eeeel 499
+10.2 清 除 浮 动 …............eooee 500
+103 浮 动 影 犹 awunuuunuanruinzmuiiiiarnuaitinarricuaiatutiartiinutriaitrrrinrtreteinrarruannrrr 504
+10.3.1 定 义 形 状 … 505
+10.3.2 使 用 透 明 图 像 定 义 形 状 …..............。 517
+103.3 为 形 状 深 加 外 迅 跋 .uauuauraraiunrsnrruatinioaiariruutenmatzueurrmureuinne 519
+10.4 小 结 … 521
+第 11 章 定 位 …........4 522
+11.1 基 本 椿 怡 ssceescesscecossoescessessscscossssoocosoooessee a 522
+111.1 定 位 的 糜 垒 nn 522
+11.1.2 容 纳 块 … 524
+11.2 偏 移 属 性 … 525
+11.3:. 贾 度 翎 口 摄 eseeueneenunnauqnunennunennennnnenennnrnaiisqgqiiguiai 527
+11.3.1 设 定 宽 度 和 高 度 …....4400l 527
+11.3.2 限 制 宽 度 和 高 度 ….............. 529
+11.4 内 容 滥 出 和 裁 副 …............65 532
+11.5 元 素 的 可 见 性 ….......4.44000nl 534
+11.6 绝 对 定 位 … 536
+11.6.1 绝 对 定 位 元 素 的 容 纳 坡 …...............5555 536
+115 咤 坤 刑 宏 俊 一 宣 巾 荣 和 尸 才 .nSinanuquruzurumz 命 eln 539
+11.6.3 自 动 确 定 边 界 的 位 置 …......444..00eeeeeoeoeeeeel 541
+11.6.4 非 置 换 元 素 的 位 置 和 尺 寸 … 543
+6 一 霁 林 无 紊 的 佐 坤 翊 厂 石 ssuuxusryuannnuiiaan nniiidinikinsiynurr 547
+11.6.6 Z 辅 上 的 位 置 …........400..ccccdcceeeccocececseconecscoceocooorocoosoroososeseeoeooesarosooesaonoroooseoooo 550
+11.7 国 定 定 位 …........... 555
+儿 的 团 李 人 院 伟 沥 puusumyuasmpmmgxggprmsoympnognsig 命 s 胡n 木 明 cnpac 556
+
+
+=== 第 15 页 ===
+11.9 粘 滞 定 位 11142424 559
+
+11.10 心 绪 … 563
+第 12 章 弹 性 盒 布 局 4444 564
+12.1 弹 性 盒 基 础 ….........4.0 564
+12.2 弹 性 容 器 … 570
+12.2.1 flex-direction 属 性 … 571
+12.2.2 其 他 书 写 方 问 ….......4. 575
+12.2.3 换 行 . 577
+12.2.4 定 义 弹 性 流 … 579
+12.2.5 flex-wrap 续 谈 … 585
+
+12.3 布 置 弹 性 元 素 … 587
+12.4 弹 性 容 器 … 588
+12.5 调 整 内 容 … 588
+12.6 对 齐 元 素 … 596
+12.6.1 起 边 、 终 边 和 居 中 对 齐 ….....440 601
+12.6.2 基 线 对 齐 … 603
+12.6.3 补 充 说 明 … 604
+
+12.7 align-self 属 性 … 605
+12.8 对 齐 内 容 … 606
+12.9 弹 性 元 素 …....4.40 612
+12.9.1 弹 性 元 素 是 什 么 … 612
+12.9.2 弹 性 元 素 的 特 性 ….......4.4400 613
+1219.3 最 肉 宾 魔 . 615
+12.10 适 用 于 弹 性 元 素 的 属 性 …...........44l 616
+12.11 flex 属 性 … 616
+12.12 flex-grow 属 性 … 618
+12.13 flex-shrink 属 性 … 625
+12.13.1 根 据 宽 度 和 缩 减 因 子 按 比 例 缩 小 … 629
+12.13.2 不 同 的 基 准 … 630
+12.13.3 响 应 式 弹 性 布 局 … 632
+12.14 flex-basis 属 性 … 635
+12.14.1 cContent 美 键 字 … 636
+12.14.2 自 动 确 定 弹 性 基 准 … 636
+
+八
+
+| 目 录
+
+
+=== 第 16 页 ===
+12.14.3 默 认 值 …..........40 639
+
+12.14.4 长 度 单 俘 …........4 639
+12.14.5 雾 基 准 … 644
+12.15 flex 简 写 属 性 … 645
+12 1 Oggeg 蒙 锋 ss 650
+第 13 章 栅 格 布 局 … 657
+13.1 创 建 栅 格 容 器 ….............4 657
+13.2 基 本 的 树 格 术 语 ….........40 660
+13.3 放 置 栅 格 线 … 662
+13.3.1 宽 度 固 定 的 栅 格 轨 道 ….............4 665
+13.3.2 弹 性 栅 格 轨 道 … 669
+13.3.3 根 据 轨 道 中 的 内 容 适 配 …......... 677
+13.3.4 重 复 栅 格 线 …...........4400 679
+13.3.5 栅 格 区 域 … 683
+13.4 在 栅 格 中 附 加 元 素 … 690
+13.4.1 使 用 列 线 和 行 线 … 690
+13.4.2 行 和 列 的 简 写 属 性 … 695
+13.4.3 隐 式 栅 格 …........0 698
+13.4.4 错 误 处 理 ….......40 701
+13.4.5 使 用 区 域 … 702
+13.4.6 树 格 元 素 重 叙 … 705
+13.5 栅 格 流 … 706
+13.6 自 动 增 加 栅 格 线 …......000 711
+13.7 grid 简 写 属 性 … 714
+13.8 释 放 栅 格 空 间 …........ 718
+13.8.1 栏 践 … 718
+13.8.2 栅 格 元 素 与 盒 模 型 … 721
+13.9 栅 格 的 对 齐 方 式 …...........0 726
+13.9.1 纵 向 对 齐 和 模 向 对 齐 单 个 元 泰 ….........。 727
+13.9.2 纵 向 对 齐 和 模 向 对 齐 全 部 元 泰 …...4.. 728
+13.10 分 层 和 排 序 … 732
+人 门 734
+
+
+=== 第 17 页 ===
+第 14 章 CSS 中 的 表 格 布 局 ….............44 735
+
+i 家 租 河 大 伟 sssiuastiesuessenxaazunnesazuzzzznzuuusunesiniz 一 inex 735
+14.1.1 表 格 的 视 觉 排 布 …...............55cceee 735
+14.1.2 设 定 显 示 方 式 的 值 …...........44。 737
+人 沥 人 沥 沥 胡znaznaazaneuunmrwresyzegsgzprgggrpmeppngmmziwgpe 胡 n 吴 ssliggeange 742
+14.1.4 表 格 中 的 层 ….............4.55。 746
+14.1.5 表 题 ….......... 748
+
+伟 沥 沥 nsiooameuinuuungneeerunxpgeteiigoygygnmmuepzmagpgmpngasgiigmggensme 749
+14.2.1 分 离 单 元 格 的 边 棠 …............0555。 750
+14.2.2 折 叠 单 元 格 的 边 棠 ….................5。 753
+
+江 园 0 伟un 758
+14.3.1 宽 度 … 758
+14.3.2 高 度 …......... 765
+人 沥 wnememmuermzeneamrngurgsgiimigzpmiiieagegpgrpagggasemezmange 766
+
+邑 林技 洁 hiuReigiinSueniBniienmermueenarrranuarereayemrurnunuuzuronrjnMRBIHRuitiE J 769
+
+第 15 章 列 表 和 生 成 的 内 容 ….........44 770
+
+江 沥 河 洁 Esn.aaiensnnJuiuunicicsiruarreerearimnirreniianiiieaeiiriaslarunanzlniouz 770
+1 技 刑 | 技 挂 nnerrauruurazuromruiuiuueennmeyanzsitqiiullnilnunlanvrar 771
+15.1.2 列 表 项 目 图 像 … 774
+15.1.3 列 表 记 号 的 位 置 …............. 778
+5 江 沥 宏 沥 的 国 不 尿 押 luuusxusruuuueexammruiJRenaznin 咤 aninindiumrr 779
+15.1.5 列 表 的 布 尾 …....44.400l 780
+
+15.2 生 成 的 内 容 …............. 784
+仅 尘 川 挂 心 生 成 的 内 定 nnunanxzunznuuemunemrsuurruarearennrniuaqnwn w 784
+15.2.2 指 定 肉 容 … 787
+15.2.3 计 数 器 …........... 793
+
+秉 人 葛 次 nmivaoacxuermnznmerasnszmeerxgmnrareura 命 罚 t 峡限 吴 nnuzs: 801
+15.3.1 固 定 计 数 模 武 ….....00.n 803
+15.3.2 循 环 计 数 模 式 …..............4 805
+任 河 万 林 芒 5 沥 椿 坂 snazzxuennmen 怡 u 国 晓 x 810
+15.3.4 字 母 计 数 模 式 ….......444 814
+15.3.5 数 字 计 数 模 式 …...........eeeeeeeeeoooneoeeeneeeeeeeeeeeeeee 815
+余 加 包 芸沥 用 挂 招 xeuneueszumweoeeuzenunmuemnnnzunanenznzmmnonznrnnnziial 819
+
+xi | “ 目 录
+
+
+=== 第 18 页 ===
+15:3:7 出 : 展 计 数 模 成 ,nousserueoeesnnio eneonseasionsnconsrnalooooooa 821
+
+15.3.8 发 音 计 数 模 式 ….................0005 823
+
+15 沥 刹 国 Cesmurmr 林 rnnwectiuiarriicreaniiianipnniniiipsisseype Jn 824
+人 , 二 825
+16.1 坐 标 根 … 825
+训 页 荣 技 anasRgSiEusiRSHiuuersauussusesssssssrssiisinsgJguJiiuixuucica2lSurastiuRoncuessue 829
+16.3 其 他 变 形 属 性 ….............. 848
+沥 技 朋nunmxxennmmumemmyamnanenyaaprmengmnumramuanmgamugygirenmgmgugoryan 848
+
+16.3.2 选 择 3D 变 形 方 式 …........... 852
+
+16.3.3 修 改 视 域 …....... 855
+16.3.4 处 理 背 面 … 859
+
+1 伟 技月 挂 ssdussauiccdiizsuzquaaeegmiyeicdcseesens 861
+紫 17 章 过 渡 一 hnmuiuuuuuautgumugxumuigtumual 葛 , 862
+17.1 CSS 过 渡 …........ 862
+172 宏 大 泓 旁 阡 居 梅 nnussasuuayuaurruxxereraeraianuiinanuiuninrionanueqiitingarjninoms 864
+17.2.1 限 制 受 过 渡 影 响 的 属 性 …..44.4.4..00..eeeeeeeeeeeeeeeeeooeeoeeeoe 868
+
+17.2.2 设 置 过 渡 持 续 时 间 …............... 874
+
+1Xx23 训 英 迁 浩 的 内 郭 贸 应 vxxuz:yirusruncituingnniuusnianin 余 anine 877
+
+1 2 李 廷 连 达 渡 anuuugsuustuuuer sn 一 882
+
+17.2.5 transition 简 写 属 性 …................4 885
+
+阡 助 林 门 2 河 a 沥 国 起 明 unuwzesunnrenmmeeatipmmamuoRn 沥 n 887
+17.4 支 持 动 国 的 属 性 和 值 …..........4.444000e 891
+17.5 过 渡 是 效 果 增 强 ….........0 896
+1705 乙 [ 闵 扬 动 洁 .nmnslmumeuyudmuzunuawnaripoatsuteuntpeutruuengunggmungiesetreusupg 896
+
+第 1H9 章 「 动 国 ,u:is:oiuouuu:mrec:............:rerunara.dariar 口 i 897
+仪 小 定 炎 英 镐 麒 Jstraumeuutunumnenwueeenaixtuurmiiinauiananldihdtusizteieusrus 898
+18.2 设 置 关 键 帧 动 画 … 899
+18.3 关 键 帧 选 择 符 …..............000 900
+1B3;1 省 路 f 和 t8 值 anuazuuaszuurunusiitrauzinwruimrunnurriiriaieriiarmmn 901
+18.3.2 重 复 关 键 帧 属 性 ….......4...0。 903
+
+18.3.3 支 持 动 国 的 属 性 …..................。 903
+
+
+=== 第 19 页 ===
+18.3.4 不 支 持 动 留 但 不 被 忽 略 的 属 性 ….................eeeeeeeeeel 905
+
+18.3.5 通 过 脚 本 编 辑 @keyframes 勐 画 … 905
+
+18.4 把 动 画 应 用 到 元 素 上 … 906
+18.4.1 指 定 动 画 的 名 称 … 906
+18.4.2 定 义 动 画 的 时 长 … 909
+18.4.3 声 明 动 画 的 迭 代 次 数 … 911
+18.4.4 设 置 动 画 的 播 放 方 向 … 912
+18.4.5 延 迟 播 放 动 画 … 914
+18.4.6 动 画 事 件 … 916
+18.4.7 改 变 动 画 的 内 部 时 序 … 925
+18.4.8 设 置 动 画 的 播 放 状 态 … 938
+18.4.9 动 画 的 填 充 模 式 … 938
+18.5 写 为 一 个 属 性 … 941
+f8,6 动 出 、 特 指 度 和 佳 先 颂 摩 cncssssscsrsuscatatuaauutrianserutsttuttsrruatnearuanrariutreariraert 945
+18.6.1 特 指 度 和 Iimportant. 945
+18.6.2 动 画 顺 序 … 945
+18.6.3H4isplay:none; 对 动 团 选 代 的 影 阴 Jssnuamanuretusriuuziiosenrmneurrr 946
+18.6.4 动 画 和 UI 线 程 … 946
+
+18.7 癫 痫 和 前 庭 功 能 失 调 … 947
+l 园 宣 伟 二 - 孝 前 端 …LaxxmmmruwezmunznnmeoueunieuamaranaigaarzatainuarRaeonmy 947
+| | 人 人 948
+18.8.2 animationend … 948
+18:.8.3.anirnatianijiteFfatIDITI .niiunemyuiiyieydniyuayuatrqttiisqsptptiashogomigeripheamiiagumagaaiss 949
+18.9 打 印 动 团 … 949
+第 19 章 滤 镜 、 混 合 、 裁 剪 和 遮 罩 … 950
+19.1 CSS5 源 镜 … 950
+19.1.1 基 本 源 镜 …........0 951
+19.1.2 颜 色 源 镜 … 953
+19.1.3 亮 度 、 对 比 度 和 饱 和 度 ….........4o 954
+19.1.4 SVG 源 镜 … 955
+
+19.2 合 威 和 混 合 ,n 957
+19.2.1 混 吾 死 嗣 e 957
+19.2.2 变 睿 、 变 亮 、 差 值 和 排 除 …...........4eeeeeeecocceeecoecocecoeeeecoooocl 958
+
+xiv | “ 目 录
+
+
+=== 第 20 页 ===
+1923 正 片 蘸 库 、 渡 色 和 菲 州 ssaassctiuasiauussrdunsiianraaneeuaaeunmeannamneanrrn 960
+
+19.2.4 强 光 和 柔 光 …........4.0enl 961
+19.2.5 颜 色 凑 淡 和 加 深 ….............4 963
+19:2「6 色 相 、 铃 和 度 、 明 度 和 颜 芜 、sousaxsuusvuaucauntsuaunuueeurmeaunaruamerorarmen 963
+
+19.3 与 背 景 混 合 … 965
+19.4 裁 剪 和 遮 罪 …...4..44.....5eeceececeeeceeceeceeeeeceeeeeeeeeeeeeeeeeeeeeeeeooooooooooeoooooooeooosoee 970
+84 或 前 sJ.:ooorrnmorrutiro..ierriearrrnenruanerunrrmniriamunuitruuuatuuttrut 97 1
+19.4.2 裁 剪 形 状 … 972
+
+19.4.3 裁 剪 棠 …...............555 973
+
+19 人 4 载 剪 摄 充 规 刘 enusneeenennanmstwunewnwnamrsnatuatutgtyrinntatuiturrrutzure 976
+
+19.5 蒙 版 … 97 7
+19.5.1 定 义 蒙 版 …..........4 978
+1982 改 变 荣 版 的 模 我 ssmnnsxeewzuviuvmuiiguosniuuwamramntiaigastmuttarge 981
+
+江 仪 荣 莲 | 仪 民 弓 招 沥 城 玟 式 zussuaeuasRniuRuRiuanatutususuununusiunpuu 983
+19.5.4 定 位 蒙 版 …............. 985
+19.55 裁 剪 和 合 或 糖 朋 ,ncsutosseuenneneununsnyueusunueztuttstiuunruyteeteyrzan 988
+
+1 口 为 一 卞 颂 英 ,oususeuzosnsesueuewuuiasuntuitasuuriapuuuzuuareusuunueusunrusiua 991
+19.5.7 蒙 版 类 垒 e 992
+19;5.8. 芸 举 迅 林 围 像 ,uaazuxannxruerruutyunmatymrmutueranerarunmuttcariaurtrurrmeapaegrazr 993
+
+1 伟 荣 伟 snusquruzaneunnuzuesiiiueoauoiiEEEnipunaiiseeneeyopecseucuueonenoieezn 994
+第 20 章 针 对 特 定 媒 体 的 样 式 ….......4 998
+20.1 定 义 针 对 特 定 媒 体 的 样 式 …...............55 998
+20.1.1 基 本 的 媒 体 查 询 ...................0 998
+20.1.2 复 杂 的 媒 体 查 询 .........4.4.0l 1001
+20.2 分 页 媒 体 …..........4 1008
+20.3 小 结 … 1023
+附 录 A 支 持 动 国 的 属 性 …...........4 1024
+附 录 B 基 本 属 性 参 考 …......... 1032
+附 录 C 颜 色 对 照 表 …........4 1044
+
+目 录 | xv
+
+
+=== 第 21 页 ===
+不 |
+0 小
+
+作 为 Web 设 计 师 或 文 档 编 写 人 员 , 如 果 你 对 丰 富 的 页 面 样 式 感 兴 趣 , 想 改 善 网 站 的 可 访
+问 性 , 力 求 节 省 时 间 和 精 力 , 那 么 这 本 书 正 是 为 你 而 写 的 。 阅 读 本 书 之 前 , 你 只 需 了 解
+HTML 4.0, 知 道 的 知 识 越 多 越 好 , 但 这 不 是 强 制 要 求 。 除 此 之 外 , 对 其 他 知 识 没 有 什 么
+特 别 要 求 。
+
+这 是 本 书 第 四 版 , 于 2017 年 年 中 完 稿 , 尽 量 展 现 了 时 下 最 新 的 CSS 技 术 。 本 书 谁 人 说
+明 的 CSS 特 性 是 写 作 本 书 时 得 到 诚 览 器 广 泛 支 持 的 , 或 者 是 在 本 书 出 版 后 不 久 便 会 支 持
+的 。 那 些 旷 在 制 订 中 的 , 或 者 即 将 弃 用 的 特 性 则 不 在 讨 论 之 列 。
+
+排 版 约 定
+本 书 采 用 下 述 排 版 约 定 ( 不 过 有 些 例 外 , 详 情 参 见 后 面 的 “ 取 值 句 法 约 定 “ :
+斜 体 (《Ttalic)
+
+表 示 新 术 语 、URL、 电 子 邮 件 地 址 、 文 件 名 和 扩 展 名 。
+
+等 宽 字 体 (Constant Nidth)
+表 示 程 序 清 单 , 在 段 落 中 出 现 则 表 示 程 序 元 素 , 例 如 变 量 、 图 数 名 、 数 据 库 、 数 据 类 型 、
+环 境 变 量 、 语 句 和 关 键 字 。
+粗 体 等 宽 字 体 (Constant width bold)
+表 示 应 该 由 用 心 输 入 的 命 令 或 其 他 文 本 ,
+斜 体 等 宽 字 体 (Constont Midth 7ta77c)
+表 示 应 该 暴 换 成 用 户 提 供 的 值 , 或 者 由 上 下 文 决 定 的 值 。
+
+
+=== 第 22 页 ===
+表 示 提 示 或 建 议 。
+
+表 示 一 般 性 说 明 。
+
+表 示 警 告 或 提 醒 。
+
+取 值 句 法 约 足
+
+本 书 穿 插 大 量 文 本 框 , 详 细 说 明 某 个 CSS 属 性 , 其 中 包 括 允 许 取 哨 些 值 。 这 些 内 容 基 本
+上 原 封 不 动 摘 自 CSS 规 范 , 不 过 也 会 对 句 注 做 些 说 明 。
+
+总 的 来 说 , 属 性 允 许 取 的 值 采 用 下 述 句 泼 给 出 :
+取 值 : </zamily-name>#
+
+取 值 : <xurl> 1 <color>
+
+取 值 : <xurl>? <color> [/ <color> ]7
+
+取 值 : [ <length>1thick | thin ]{1.4}
+
+“<“ 和 “>“ 之 间 的 斜 体 字 表 示 值 的 类 型 , 或 者 是 引 用 其 他 属 性 的 值 。 例 如 ,font 接 受
+原 本 属 于 font-family 属 性 的 值 , 因 此 使 用 <fonr-family> 表 示 。 类 似 地 , 如 果 元 许 使 用
+颜 色 值 , 将 使 用 <color> 表 示 。
+
+以 等 宽 字 体 显 示 的 值 是 关 键 字 , 必 须 原 样 编 写 , 不 能 加 引 号 。 正 斜 线 (/) 和 逗 号 (,)
+也 必 须 原 样 使 用 。
+取 值 范 围 有 多 种 组 合 方 式 :
+
+* “ 连 在 一 起 只 由 空 格 分 开 的 两 个 或 多 个 关 键 字 , 必 须 以 给 定 的 顺 序 使 用 。 例 如 ,he1p
+me 表 示 这 个 属 性 必 须 以 这 样 的 顺 序 取 值 。
+
+。 以 坂 线 (I) 分 隔 的 值 (X 1 Y) , 必 取 其 中 一 个 值 , 而 且 只 能 取 一 个 。 例 如 ,[ X |
+y | z ] 表 示 可 以 取 X、 或 Z。
+
+2 | “ 前 言
+

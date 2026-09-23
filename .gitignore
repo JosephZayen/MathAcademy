@@ -4,4 +4,6 @@
 *.pdf
 *.docx
 *.doc
-*.txt
+*/*.txt
+
+
