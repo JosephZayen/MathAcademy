@@ -4,3 +4,15 @@ NGINX还有SSL加速之类的
 
 然后是systemd，这玩意涉及一些UNIT启动流程的配置，可以设置开机启动什么的
 
+
+
+nginx 
+
+
+
+http{
+    server {
+        server_name
+        
+    }
+}

@@ -1,0 +1,47 @@
+from flask import Blueprint,request,redirect,url_for,render_template,session,flash
+from models import User, db_session, select
+from werkzeug.security import check_password_hash,generate_password_hash
+
+auth_bp = Blueprint("auth_bp",__name__,"static",None,"templates","/auth")
+
+@auth_bp.route("/login",methods=["GET","POST"])
+def login():
+    if request.method == "POST":
+        custom_id = request.form["custom_id"].strip()
+        pwd = request.form["pwd"]
+        stmt = select(User).where(User.custom_id == custom_id)
+        users = db_session.scalars(stmt)
+        if users:
+            user = users.first()
+        if user and check_password_hash(user.pwd_hash, pwd):
+            session["uid"] = user.id
+            return redirect(url_for("personal_bp.main"))
+        else:
+            flash("incorrect input")
+            return {"status": "failed"}, 400
+    else:
+        return render_template("login.html")
+
+@auth_bp.route("/register",methods=["GET","POST"])
+def register():
+    if request.method == "POST":
+        custom_id = request.form["custom_id"].strip()
+        pwd = request.form["pwd"]
+        name = request.form["name"]
+        if custom_id is not None and pwd is not None and name is not None:
+            stmt = select(User.id).where(User.custom_id == custom_id)
+            ids = db_session.scalars(stmt)
+            id = ids.first() if ids.first() else None
+            if id is not None:
+                flash("user already exists")
+                return {"status": "failed"}, 400
+            else:
+                user = User(name=name, custom_id=custom_id, pwd_hash=generate_password_hash(pwd))
+                db_session.add(user)
+                db_session.commit()
+                session["uid"] = id
+                return redirect(url_for("personal_bp.main"))
+    else:
+        return render_template("register.html")
+
+

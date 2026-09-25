@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>register</title>
+</head>
+
+<body>
+<form method="post">
+  <input name="custom_id" placeholder="custom_id" required>
+  <input name="pwd" placeholder="pwd" required>
+  <button>login</button>
+  <a href="{{ url_for('auth_bp.register') }}">register</a>
+</form>
+</body>
+</html>

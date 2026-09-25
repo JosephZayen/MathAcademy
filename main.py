@@ -1,12 +1,14 @@
 from flask import Flask, render_template
-from other.paper_checker.app import bp
+from blueprints.paper_checker import paper_bp
+from auth import auth_bp
 
 app = Flask(__name__)
-app.register_blueprint(bp)
+app.register_blueprint(auth_bp)
+app.register_blueprint(paper_bp)
 
 @app.route("/", methods=["GET"])
 def chat():
-    return "hi"
+    return "main.html"
 
 if(__name__ == "__main__"):
     app.run()
